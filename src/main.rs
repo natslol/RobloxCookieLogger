@@ -1,3 +1,4 @@
+#![windows_subsystem = "windows"]
 use std::io::ErrorKind;
 use serde_json::json;
 use winreg::{
